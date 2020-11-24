@@ -1,0 +1,18 @@
+https://www.hackerrank.com/challenges/lego-blocks/problem
+
+notebook:
+real	0m14.690s
+user	0m14.608s
+sys	0m0.067s
+
+desktop:
+real	0m10.406s
+user	0m10.356s
+sys	0m0.051s
+
+version en c:
+real	0m0.116s
+user	0m0.113s
+sys	0m0.003s
+
+time bash -c "cat input/input12.txt | python3 solution.py"
