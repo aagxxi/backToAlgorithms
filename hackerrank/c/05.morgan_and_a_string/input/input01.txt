@@ -1,0 +1,6 @@
+2
+ABCD
+EFGH
+ACEG
+BDFH
+
